@@ -1,7 +1,7 @@
 # Kurs AS20 – Frans (Vinter 2025)
 
 Detta repository innehåller arbeten och övningar för kursen **Applied Script 20 YH (AS20)** under **Vinter 2025**.  
-Arbetet demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i både **Linux- och Windows-miljöer**.
+Arbetet demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i **Linux-miljöer**.
 
 ---
 
