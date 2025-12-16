@@ -1,7 +1,6 @@
 # Applied script, 20 yhp @Frans Schartau
 
-Detta repository innehåller arbeten och övningar för kursen **Applied Script (AS20)** som genomfördes under **Hösten 2025**.  
-Övningarna demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i **Linux-miljöer**.
+Detta repository innehåller arbeten och övningar för kursen **Applied Script (AS20)** som genomfördes under **Hösten 2025**. Övningarna demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i **Linux-miljöer**.
 
 ---
 
@@ -16,7 +15,7 @@ Detta repository innehåller arbeten och övningar för kursen **Applied Script 
 
 ---
 
-## Syfte / Mål
+## Mål
 
 Målet med kursen är att ge en grundläggande förståelse för **automatisering, Bash och scripting**, samt hur scripting kan användas för att förenkla uppgifter och effektivisera arbetsflöden.
 
