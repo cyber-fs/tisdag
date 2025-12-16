@@ -1,7 +1,7 @@
-# Kurs AS20 – Frans (Vinter 2025)
+# Applied script, 20 yhp @Frans Schartau
 
-Detta repository innehåller arbeten och övningar för kursen **Applied Script 20 YH (AS20)** under **Vinter 2025**.  
-Arbetet demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i **Linux-miljöer**.
+Detta repository innehåller arbeten och övningar för kursen **Applied Script (AS20)** som genomfördes under **Hösten 2025**.  
+Övningarna demonstrerar praktisk tillämpning av scripting, versionshantering och systemadministration i **Linux-miljöer**.
 
 ---
 
